@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 hi this is moghis ijaz
 i am software engineer
 amazone and aws
-=======
-hi this is moghis ijaz
->>>>>>> parent of 7732b1a (second commit)
+hello
