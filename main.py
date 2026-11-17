@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# abc
-=======
 # abcd
->>>>>>> feature
